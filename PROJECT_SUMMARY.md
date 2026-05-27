@@ -330,7 +330,7 @@ AI: 修复问题
 
 ```
 
-### B. 常用命令
+### A. 常用命令
 
 ```bash
 # 构建测试包
@@ -346,14 +346,9 @@ adb install app/build/outputs/apk/release/PhotoMaster-v1.0-release.apk
 adb logcat -s PhotoMaster:D
 ```
 
-### C. 参考资源
+### B. 参考资源
 
 - [Android 开发者文档](https://developer.android.com/)
 - [Jetpack Compose 教程](https://developer.android.com/jetpack/compose)
 - [Kotlin 官方文档](https://kotlinlang.org/docs/)
 
----
-
-**文档版本**: 1.0  
-**最后更新**: 2025-05-19  
-**作者**: AI 辅助开发（Kimi K2.5）+ 用户协作

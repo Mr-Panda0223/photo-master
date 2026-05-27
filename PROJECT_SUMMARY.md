@@ -327,15 +327,7 @@ AI: 修复问题
 
 ## 附录
 
-### A. 关键文件位置
 
-```
-/Users/bytedance/Documents/trae_projects/photo_ps/
-├── app/build/outputs/apk/debug/app-debug.apk          # 测试包
-├── app/build/outputs/apk/release/PhotoMaster-v1.0-release.apk  # 正式包
-├── photo-master.keystore                              # 签名密钥
-├── KEYSTORE_BACKUP_README.md                          # 密钥备份文档
-└── PROJECT_SUMMARY.md                                 # 本文档
 ```
 
 ### B. 常用命令

@@ -42,3 +42,7 @@ app/debug/
 # 其他敏感信息
 secrets.properties
 google-services.json
+
+# 大文件（超过 GitHub 100MB 限制）
+photo-master-source.zip
+*.hprof

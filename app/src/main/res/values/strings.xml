@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">PhotoPS</string>
+    
+    <!-- 通用 -->
+    <string name="confirm">确认</string>
+    <string name="cancel">取消</string>
+    <string name="save">保存</string>
+    <string name="delete">删除</string>
+    <string name="edit">编辑</string>
+    <string name="share">分享</string>
+    <string name="back">返回</string>
+    <string name="next">下一步</string>
+    <string name="done">完成</string>
+    
+    <!-- 首页 -->
+    <string name="home_title">PhotoPS</string>
+    <string name="drafts">正在编辑</string>
+    <string name="completed">已完成</string>
+    <string name="new_edit">新建</string>
+    <string name="no_drafts">暂无草稿</string>
+    <string name="no_photos">暂无照片</string>
+    
+    <!-- 编辑页 -->
+    <string name="editor_title">编辑</string>
+    <string name="undo">撤销</string>
+    <string name="redo">重做</string>
+    <string name="export">导出</string>
+    <string name="reset">重置</string>
+    
+    <!-- 工具名称 -->
+    <string name="tool_crop">裁剪</string>
+    <string name="tool_adjust">调整</string>
+    <string name="tool_filter">滤镜</string>
+    <string name="tool_light">光影</string>
+    <string name="tool_text">文字</string>
+    <string name="tool_brush">画笔</string>
+    
+    <!-- 调整参数 -->
+    <string name="brightness">亮度</string>
+    <string name="contrast">对比度</string>
+    <string name="saturation">饱和度</string>
+    <string name="temperature">色温</string>
+    <string name="tint">色调</string>
+    <string name="exposure">曝光</string>
+    <string name="highlights">高光</string>
+    <string name="shadows">阴影</string>
+    <string name="sharpness">清晰度</string>
+    
+    <!-- 导出页 -->
+    <string name="export_title">导出</string>
+    <string name="format">格式</string>
+    <string name="quality">质量</string>
+    <string name="size">尺寸</string>
+    <string name="original_size">原始尺寸</string>
+    <string name="custom_size">自定义</string>
+    <string name="save_to_gallery">保存到相册</string>
+    <string name="saving">保存中...</string>
+    <string name="save_success">保存成功</string>
+    <string name="save_failed">保存失败</string>
+    
+    <!-- 我的页面 -->
+    <string name="profile_title">我的</string>
+    <string name="login">登录</string>
+    <string name="logout">退出</string>
+    <string name="not_logged_in">未登录</string>
+    <string name="settings">设置</string>
+    <string name="appearance">外观风格</string>
+    <string name="language">语言设置</string>
+    <string name="permissions">权限管理</string>
+    <string name="edit_history">编辑历史</string>
+    <string name="remaining_time">剩余使用时间</string>
+    <string name="days_left">%d 天</string>
+    <string name="expiring_soon">即将到期</string>
+    <string name="version_expired">版本已过期</string>
+    
+    <!-- 权限 -->
+    <string name="permission_storage">存储权限</string>
+    <string name="permission_camera">相机权限</string>
+    <string name="permission_granted">已授权</string>
+    <string name="permission_denied">未授权</string>
+    
+    <!-- 有效期 -->
+    <string name="validity_remaining">剩余有效期：%d天</string>
+    <string name="validity_warning">版本即将过期，请及时更新</string>
+    <string name="validity_expired">版本已过期，请下载新版本</string>
+</resources>
